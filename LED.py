@@ -185,7 +185,7 @@ class LED(object):
         fmt = '\n'.join(table)
         # fmt = '  '.join(fmt)
         print fmt
-
+ 
     
 if __name__ == "__main__":
 
